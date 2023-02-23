@@ -1,6 +1,6 @@
 /* NAV */
 .nav-logo {
-    height: 200px;
+    height: 150px;
 
 }
 .nav-color {
@@ -73,4 +73,12 @@ padding-top: 20px;
 padding-bottom: 20px;
 text-align: justify;
 border-bottom: solid 1px black;
+}
+
+/* FORMULARIO */
+
+
+form {
+  padding: 20px;
+  margin: 20px;
 }
