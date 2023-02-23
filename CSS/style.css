@@ -82,3 +82,9 @@ form {
   padding: 20px;
   margin: 20px;
 }
+
+.title {
+  padding-top: 10px;
+  display: flex;
+  justify-content:center;
+}
